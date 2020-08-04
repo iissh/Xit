@@ -449,7 +449,7 @@ public static void credits(){
 			"\t/  ___}| {}  }| {_  | {}  \\| |{_   _}{ {__  \r\n" + 
 			"\t\\     }| .-. \\| {__ |     /| |  | |  .-._} }\r\n" + 
 			"\t `---' `-' `-'`----'`----' `-'  `-'  `----' \n");
-	System.out.println("\n\tThis game is created by Isshana Mohanakumar. ");
+	System.out.println("\n\tThis game is created by Isshana. ");
 	System.out.println("\tReleased: November 17, 2019");
 	System.out.println("\n\tFramework used: Java.");
 	System.out.println("\tASCII Art: https://www.asciiart.eu");
@@ -1082,11 +1082,11 @@ public static void fallholt1() throws InterruptedException {
 }
 
 public static void cutscene1() throws InterruptedException {
-	System.out.println("Three more minutes…"); 
+	System.out.println("Three more minutesÂ…"); 
 	Thread.sleep(TIME);
 	System.out.println("Ugh, could this clock take any longer??");
 	Thread.sleep(TIME);
-	System.out.println("\nToday… was yet another dull day at school.");
+	System.out.println("\nTodayÂ… was yet another dull day at school.");
 	Thread.sleep(TIME);
 	System.out.println("Teachers yapping, tiresome lessons, and annoying students.");
 	Thread.sleep(TIME);
@@ -1126,7 +1126,7 @@ public static void cutscene1() throws InterruptedException {
 	Thread.sleep(TIME);
 	System.out.println("It was probably my most favourite thing to do.");
 	Thread.sleep(TIME);
-	System.out.println("I had tried pretty much played every game out there. Action, survival, FPS, RPG, MOBA… anything you name it!\n\n");
+	System.out.println("I had tried pretty much played every game out there. Action, survival, FPS, RPG, MOBAÂ… anything you name it!\n\n");
 	Thread.sleep(TIME);
 	System.out.println("                                                 .------.------.    \r\n" + 
 			"  +-------------+                     ___        |      |      |    \r\n" + 
@@ -1298,7 +1298,7 @@ public static int cutscene2() throws IOException, InterruptedException{
 	Thread.sleep(TIME);
 	System.out.println("He was standing on the other side of the lobby gazing off in the distance.");
 	Thread.sleep(TIME);
-	System.out.println("Jovi was so tall, about 6'2” or 6'3”.");
+	System.out.println("Jovi was so tall, about 6'2Â” or 6'3Â”.");
 	Thread.sleep(TIME);
 	System.out.println("His chestnut brown hair complemented his green eyes perfectly.");
 	Thread.sleep(TIME);
@@ -1306,7 +1306,7 @@ public static int cutscene2() throws IOException, InterruptedException{
 	Thread.sleep(TIME);
 	System.out.println("He could honestly be a model with the way he looked.\n");
 	Thread.sleep(TIME);
-	System.out.println("Jovi: \"Hey! … El?\"\n");
+	System.out.println("Jovi: \"Hey! Â… El?\"\n");
 	Thread.sleep(TIME);
 	System.out.println("His expression changed completely.");
 	Thread.sleep(TIME);
@@ -1342,7 +1342,7 @@ public static int ch1dc1() throws IOException, InterruptedException{
 	Thread.sleep(TIME);
 	System.out.println("Jovi: \"Why do you have a female avatar? Did you bypass the auto-sync?\"");
 	Thread.sleep(TIME);
-	System.out.println("Me: \"No… I didn't. This is auto-sync. I'm sorry I didn't tell you earlier.\"");
+	System.out.println("Me: \"NoÂ… I didn't. This is auto-sync. I'm sorry I didn't tell you earlier.\"");
 	Thread.sleep(TIME);
 	System.out.println("Jovi: \"That literally makes no sense. I swear to god you sound like a dude online.\"");
 	Thread.sleep(TIME);
@@ -1509,7 +1509,7 @@ public static void cutscene3() throws InterruptedException{
 	Thread.sleep(TIME);
 	System.out.println("There was none.");
 	Thread.sleep(TIME);
-	System.out.println("I started searching for a ‘Force shut-down option'...nothing to be found.");
+	System.out.println("I started searching for a Â‘Force shut-down option'...nothing to be found.");
 	Thread.sleep(TIME);
 	System.out.println("I could not even reach the VR headset's personal dropdown menu.\n");
 	Thread.sleep(TIME);
@@ -2781,7 +2781,7 @@ public static void winGameCutscene() throws IOException, InterruptedException {
 	Thread.sleep(TIME);
 	System.out.println("Axel: \"Congratulations Elle, Jovi, Mateo, Lucas, and Cami. You are the champions of X/it Tournament 20XX. As \n       promised, you will gain access to log-in and log-out of the game at your own free will along with one\n        million for each of you and a 3-night stay in Bali! You will now be released from the game.\"");
 	Thread.sleep(TIME);
-	System.out.println("\nMe: \"I can't believe we did it…\"");
+	System.out.println("\nMe: \"I can't believe we did itÂ…\"");
 	Thread.sleep(TIME);
 	System.out.println("Jovi: \"You bet we did.\"");
 	Thread.sleep(TIME);
@@ -2822,9 +2822,9 @@ public static void winGameCutscene() throws IOException, InterruptedException {
 	Thread.sleep(TIME);
 	System.out.println("One was missing though.");
 	Thread.sleep(TIME);
-	System.out.println("Jovi… where was he?\n");
+	System.out.println("JoviÂ… where was he?\n");
 	Thread.sleep(TIME);
-	System.out.println("Jovi: \"Ahem… where's my hug?\"\n");
+	System.out.println("Jovi: \"AhemÂ… where's my hug?\"\n");
 	Thread.sleep(TIME);
 	System.out.println("There he was.");
 	Thread.sleep(TIME);
