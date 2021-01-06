@@ -1,6 +1,33 @@
 # Xit
-An original text-based Adventure Game created with Java.
+An original text-based Adventure Game created with **Java**. 
 
-Trapped is a Text-based Adventure game based on the popular game Fortnite: Battle Royale. You are up late night playing your favourite game of the season knowing very well that you have an important test the next day. You end up falling asleep mid-game only to wake up realizing that you are in the game itself. A mysterious voice tells you that the only way to escape the game and return back to reality is to get a Victory Royale. He also informs you that if you get eliminated, that’s the end of your life. You pretty much have no choice but to win the game! Good Luck on your win to survival!
+Xit (pronounced exit) is about a group of friends who decide to try out a new video game but suddenly get sucked into another dimension where they are in the game itself! THe group of friends must become stronger and make the right decisions to escape and get back home. There are many twists, turns and opportunities for you to become stronger and arrive at the happy ending!
 
 Make sure the path to the cutscenes file matches to the path in your computer for the cutscenes file in the Xit main file. Enjoy!
+
+## How to Play
+### Make Choices
+Choose how you want to interact with other characters. Your decisions do influence the output of the game so choose carefully! You will be prompted to enter a number for a specific choice selection or you will be prompted to enter custom words. Read the options carefully before choosing.
+<p align="center">
+  <img src="readme-imgs/makechoices.png" />
+</p>
+
+### Play Mini Games
+There are tons of mini-games throughout your adventure. Follow the rules carefully and do as you are told. If luck is on your side you might be the winner!
+
+### Detailed Instructions
+Below are the official instructions from the game.
+<p align="center">
+  <img src="readme-imgs/instructions.png" />
+</p>
+
+## Notable Features
+
+### Customization
+Customize your avatar. Choose you avatar name, costume, and how you look!
+<p align="center">
+  <img src="readme-imgs/customize.png" />
+</p>
+
+### Player Stats
+You progress, health, strength, speed, and love level will all be located inyour player stats section. This updates frequently during the game so don't worry if you aren't sure where you are at.
