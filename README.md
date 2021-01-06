@@ -26,7 +26,7 @@ Below are the official instructions from the game.
 ### Customization
 Customize your avatar. Choose you avatar name, costume, and how you look!
 <p align="center">
-  <img src="readme-imgs/customize.png" />
+  <img src="readme-imgs/customization.gif" />
 </p>
 
 ### Player Stats
